@@ -1,0 +1,13 @@
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\obj\Debug\CiudadesApp.csproj.AssemblyReference.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\obj\Debug\CiudadesApp.Form1.resources
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\obj\Debug\CiudadesApp.Properties.Resources.resources
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\obj\Debug\CiudadesApp.csproj.GenerateResource.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\obj\Debug\CiudadesApp.csproj.CoreCompileInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\bin\Debug\CiudadesApp.exe.config
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\bin\Debug\CiudadesApp.exe
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\bin\Debug\CiudadesApp.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\bin\Debug\CiudadesLibrary.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\bin\Debug\CiudadesLibrary.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\obj\Debug\Ciudades.E21508EE.Up2Date
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\obj\Debug\CiudadesApp.exe
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesApp\obj\Debug\CiudadesApp.pdb

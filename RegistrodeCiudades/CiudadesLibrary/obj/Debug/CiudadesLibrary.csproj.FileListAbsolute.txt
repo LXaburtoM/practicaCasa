@@ -1,0 +1,6 @@
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.csproj.AssemblyReference.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesLibrary\bin\Debug\CiudadesLibrary.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesLibrary\bin\Debug\CiudadesLibrary.pdb
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.dll
+C:\Users\Luis Xavier Mantilla\Desktop\clase de c#\trabajo de practica\RegistrodeCiudades\CiudadesLibrary\obj\Debug\CiudadesLibrary.pdb
